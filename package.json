@@ -1,0 +1,19 @@
+{
+  "name": "ui-portfolio",
+  "version": "1.0.0",
+  "description": "anything about this code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baibhav-kumar1/ui-portfolio.git"
+  },
+  "author": "Baibhav kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baibhav-kumar1/ui-portfolio/issues"
+  },
+  "homepage": "https://github.com/Baibhav-kumar1/ui-portfolio#readme"
+}
